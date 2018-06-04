@@ -1,0 +1,7 @@
+[package]
+name = "multi-stage"
+version = "0.1.0"
+authors = ["yagince <straitwalk@gmail.com>"]
+
+[dependencies]
+regex = "1.0.0"
